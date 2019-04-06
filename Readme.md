@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Елена Сергеева](https://up.htmlacademy.ru/adaptive/16/user/25876).
-* Наставник: `Неизвестно`.
+* Наставник: Кексобот.
 
 ---
 
